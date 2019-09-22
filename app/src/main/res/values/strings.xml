@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RunTracker Fragment</string>
+    <string name="distance">Distance: %s m</string>
+    <string name="start">Start</string>
+    <string name="start_tracking">Start</string>
+    <string name="stop_tracking">Stop</string>
+    <string name="list">List</string>
+    <string name="track">Track</string>
+    <string name="duration">Duration: %s s</string>
+</resources>
